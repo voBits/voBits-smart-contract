@@ -1,4 +1,4 @@
-# ForkDelta's Smart Contract
+# voBits Smart Contract
 
 This is the official repository for all things regarding the ForkDela smart contract.  
 All contracts are located in the `contracts` folder.
